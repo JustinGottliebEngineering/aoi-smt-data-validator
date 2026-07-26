@@ -32,3 +32,6 @@ Thumbs.db
 private_data/
 production_data/
 *.log
+
+# Generated reports
+output/
