@@ -277,9 +277,7 @@ The command-line interface returns:
 These exit codes allow the validator to be incorporated into automated workflows.
 
 ## Example Output
-## Screenshot
 
-![AOI/SMT validation report](screenshots/validation-report.png)
 ```text
 ====================================================================
 AOI / SMT DATA VALIDATION REPORT
