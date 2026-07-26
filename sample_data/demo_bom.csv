@@ -1,0 +1,9 @@
+part_id,reference,description,footprint
+RES-10K-0603,R1,10K Ohm Resistor,0603
+RES-10K-0603,R2,10K Ohm Resistor,0603
+RES-10K-0603,R3,10K Ohm Resistor,0603
+CAP-100NF-0603,C1,100 nF Ceramic Capacitor,0603
+CAP-100NF-0603,C2,100 nF Ceramic Capacitor,0603
+IC-MCU-001,U1,Demonstration Microcontroller,QFN-32
+LED-GREEN-0603,D1,Green Indicator LED,0603
+CONN-USB-C,J1,USB Type-C Connector,USB-C-16P
