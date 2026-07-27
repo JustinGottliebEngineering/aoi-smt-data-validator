@@ -553,3 +553,7 @@ Version `0.1.0` includes:
 * Public technical documentation
 
 The project is under active development as part of a professional manufacturing-test engineering portfolio.
+
+## Screenshot
+
+![AOI/SMT validation report](./screenshots/validation-report.png)
